@@ -34,6 +34,10 @@ Optics:
 Opticspy:
 https://github.com/Sterncat/opticspy
 
-
-Zernike WF GUI
+Zernike WF GUI based on Opticspy
 https://github.com/Sterncat/zernikeapp
+
+Astronomy:
+
+AOTools and Soapy
+https://github.com/AOtools
